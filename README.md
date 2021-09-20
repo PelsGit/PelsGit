@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @PelsGit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Rutger Pels | Cloud Architect | Tech Enthousiast
 
-<!---
-PelsGit/PelsGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📜 Certifications
+* Azure Cloud Solution Architect
+* Azure Cloud Administrator
+
+## 🧑 Hobbies
+* 🏋️‍♂️ Cross/Fitness
+* 📖 Reading
+* 🎮 Gaming
+* 💻 Blogging
+
+## 👀 Professional Interests
+* ❤️ Microsoft Azure
+* ❤️ DevOps
+* ❤️ Collaborations
+* ❤️ Contribute
+* ❤️ Share Knowledge 
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
