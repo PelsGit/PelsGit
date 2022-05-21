@@ -1,8 +1,9 @@
-# Rutger Pels | Cloud Architect | Tech Enthousiast
+# Rutger Pels |DevOps Enthousiast | Customer Focus
 
 ## 📜 Certifications
 * Azure Cloud Solution Architect
 * Azure Cloud Administrator
+* Azure DevOps Egineer Expert
 
 ## 🧑 Hobbies
 * 🏋️‍♂️ Cross/Fitness
@@ -11,10 +12,10 @@
 * 💻 Blogging
 
 ## 👀 Professional Interests
-* ❤️ Microsoft Azure
+* ❤️ Microsoft Cloud
 * ❤️ DevOps
 * ❤️ Collaborations
-* ❤️ Contribute
+* ❤️ Contributing
 * ❤️ Share Knowledge 
 
 ### 📕 Latest Blog Posts
