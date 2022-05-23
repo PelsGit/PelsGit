@@ -3,7 +3,7 @@
 ## 📜 Certifications
 * Azure Cloud Solution Architect
 * Azure Cloud Administrator
-* Azure DevOps Egineer Expert
+* Azure DevOps Engineer Expert
 
 ## 🧑 Hobbies
 * 🏋️‍♂️ Cross/Fitness
