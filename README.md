@@ -4,6 +4,7 @@
 * Azure Cloud Solution Architect
 * Azure Cloud Administrator
 * Azure DevOps Engineer Expert
+* Azure Network Design and implement
 
 ## 🧑 Hobbies
 * 🏋️‍♂️ Cross/Fitness
